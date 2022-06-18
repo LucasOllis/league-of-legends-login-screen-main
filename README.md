@@ -16,6 +16,8 @@
 - `CSS`
 - `JAVASCRIPT`
 
+Anotações:
+
 ## Autores
 
 [<img src="https://avatars.githubusercontent.com/u/107039902?s=200&v=4" width=115><br><sub>Manual do Dev</sub>](https://github.com/manualdodev) 
