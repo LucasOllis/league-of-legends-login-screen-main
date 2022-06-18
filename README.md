@@ -5,10 +5,10 @@
 
 ## :hammer: Funcionalidades do projeto
 
-- `Funcionalidade 1`: descrição da funcionalidade 1
-- `Funcionalidade 2`: descrição da funcionalidade 2
-- `Funcionalidade 3`: descrição da funcionalidade 3
-- `Funcionalidade 4`: descrição da funcionalidade 4
+- `Funcionalidade 1`: Inserir Login e senha do usuário
+- `Funcionalidade 2`: 
+- `Funcionalidade 3`: 
+- `Funcionalidade 4`: 
 
 ## :desktop_computer: Técnicas e tecnologias utilizadas no projeto
 
