@@ -16,7 +16,7 @@
 - `CSS`
 - `JAVASCRIPT`
 
-Anotações:
+Anotações: 
 
 ## Autores
 
