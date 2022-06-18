@@ -1,2 +1,21 @@
-# league-of-legends-login-screen-main
-Clone-page feita a partir de um tutorial do youtube intitulado por Manual do Dev, onde foi seguido instruções para criação do esqueleto em HTML, estilização com CSS e um pouco de JS. Foi refeito assim como no tutorial adicionando apenas as descrições como forma do meu entendimento no arquivo README
+<h1 align="center"> League-Of-Legends Login-Screen </h1>
+<h4 align="center"> 
+    :construction:  Projeto em construção  :construction:
+</h4>
+
+## :hammer: Funcionalidades do projeto
+
+- `Funcionalidade 1`: descrição da funcionalidade 1
+- `Funcionalidade 2`: descrição da funcionalidade 2
+- `Funcionalidade 3`: descrição da funcionalidade 3
+- `Funcionalidade 4`: descrição da funcionalidade 4
+
+## :desktop_computer: Técnicas e tecnologias utilizadas no projeto
+
+- `HTML`
+- `CSS`
+- `JAVASCRIPT`
+
+## Autores
+
+[<img src="https://avatars.githubusercontent.com/u/107039902?s=200&v=4" width=115><br><sub>Manual do Dev</sub>](https://github.com/manualdodev) 
