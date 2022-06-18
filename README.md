@@ -6,9 +6,9 @@
 ## :hammer: Funcionalidades do projeto
 
 - `Funcionalidade 1`: Inserir Login e senha do usuário
-- `Funcionalidade 2`: 
-- `Funcionalidade 3`: 
-- `Funcionalidade 4`: 
+- `Funcionalidade 2`: Checkbox para manter login
+- `Funcionalidade 3`: handleFocus para os campos de digitação
+- `Funcionalidade 4`: Responsividade
 
 ## :desktop_computer: Técnicas e tecnologias utilizadas no projeto
 
